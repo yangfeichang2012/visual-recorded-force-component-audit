@@ -1,0 +1,32 @@
+{
+  "record": "singlepsm__C_M1_T1_2.bag",
+  "offsets": [
+    0,
+    279,
+    558
+  ],
+  "expected": {
+    "branch_A": [
+      1.1332591616204886,
+      1.0583218859556223,
+      1.4615350605899482
+    ],
+    "branch_B": [
+      1.0955261992073257,
+      0.9184554537133738,
+      1.6677398941392338
+    ],
+    "fusion": [
+      1.114392680413907,
+      0.988388669834498,
+      1.564637477364591
+    ]
+  },
+  "A": "relative_temporal1536_L1",
+  "B": "local144_RBF",
+  "max_prediction_difference_N": 4.440892098500626e-16,
+  "model_source_sha256": {
+    "A": "33218bb9cb3e2c725e95a48c294a5e98cce0a569cbd751cec4ce9cf6dae0d72c",
+    "B": "bc055c631d897d2e4fc83a6caec5025d7bd2e0f1c89701ce6d766195c2a03dbb"
+  }
+}

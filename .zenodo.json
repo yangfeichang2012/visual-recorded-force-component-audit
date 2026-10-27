@@ -1,0 +1,45 @@
+{
+  "title": "Source-dependent gains and tail errors in visual recorded-force prediction for surgical robotics: frozen replay code",
+  "upload_type": "software",
+  "description": "Portable frozen-output metric replay and three cached-feature/head inference examples for D76 manuscript v2.4. Includes both chicken views and SinglePSM, all original pass/fail gates and failed GRU/anchor-cap diagnostics. These previously exposed public sources were retrained separately; this artifact is not blind external validation, direct weight transfer, raw-video replay, or complete training reproduction. Lang Yang, Chuan-Xin Duan and Xixi Gao contributed equally and share first authorship, listed in that order. Code: MIT; source-derived numerical data: CC BY 4.0, see NOTICE.md.",
+  "creators": [
+    {
+      "name": "Yang, Lang",
+      "affiliation": "China-Japan Friendship Hospital"
+    },
+    {
+      "name": "Duan, Chuan-Xin",
+      "affiliation": "National Cancer Center / Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College"
+    },
+    {
+      "name": "Gao, Xixi",
+      "affiliation": "China-Japan Friendship Hospital"
+    },
+    {
+      "name": "Chen, Xiao",
+      "affiliation": "National Cancer Center / Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College"
+    }
+  ],
+  "license": "MIT",
+  "version": "v2.4.0",
+  "publication_date": "2026-10-27",
+  "keywords": [
+    "surgical robotics",
+    "visual force estimation",
+    "component evaluation",
+    "tail errors",
+    "reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://zenodo.org/records/21041361",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://zenodo.org/records/21038878",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    }
+  ]
+}

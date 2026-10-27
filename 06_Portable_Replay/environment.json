@@ -1,0 +1,10 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.5.1",
+  "torch": "2.7.1+cu128",
+  "device": "CPU",
+  "arithmetic": "FP64 heads; D76 cached descriptors float32 as originally implemented",
+  "thread_count": 1,
+  "automatic_install": false,
+  "optimizer_steps": 0
+}

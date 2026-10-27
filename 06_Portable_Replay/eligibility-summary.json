@@ -1,0 +1,23 @@
+{
+  "chicken__V1": {
+    "grid_rows": 5986,
+    "image_force_age_paired": 5914,
+    "all_stream_qualified_rows": 5914,
+    "six_consecutive_grid_eligible": 5490,
+    "records": 20
+  },
+  "chicken__V2": {
+    "grid_rows": 5987,
+    "image_force_age_paired": 5938,
+    "all_stream_qualified_rows": 5938,
+    "six_consecutive_grid_eligible": 5618,
+    "records": 20
+  },
+  "singlepsm__all": {
+    "grid_rows": 25760,
+    "image_force_age_paired": 25526,
+    "all_stream_qualified_rows": 25526,
+    "six_consecutive_grid_eligible": 24195,
+    "records": 43
+  }
+}

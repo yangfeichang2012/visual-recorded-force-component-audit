@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite this versioned software archive when using the replay code or derived outputs."
+type: software
+title: "Source-dependent gains and tail errors in visual recorded-force prediction for surgical robotics: frozen replay code"
+version: v2.4.0
+date-released: 2026-10-27
+url: "https://github.com/yangfeichang2012/visual-recorded-force-component-audit"
+license: MIT
+abstract: "Frozen endpoint metric replay and selected cached-feature/head inference; not full raw-video training reproduction. The first three authors contributed equally, in the listed order. Derived numerical data are CC BY 4.0; see NOTICE.md."
+authors:
+  - family-names: "Yang"
+    given-names: "Lang"
+    affiliation: "China-Japan Friendship Hospital"
+  - family-names: "Duan"
+    given-names: "Chuan-Xin"
+    affiliation: "National Cancer Center / Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College"
+  - family-names: "Gao"
+    given-names: "Xixi"
+    affiliation: "China-Japan Friendship Hospital"
+  - family-names: "Chen"
+    given-names: "Xiao"
+    affiliation: "National Cancer Center / Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College"

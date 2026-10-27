@@ -1,0 +1,12 @@
+{
+  "frozen_predictions": true,
+  "unique_target_rows": 35303,
+  "D76_metric_rows": 1494,
+  "D204_metric_rows": 380,
+  "D205_metric_rows": 180,
+  "metric_tolerance_N": 1e-10,
+  "inference_tolerance_N": 1e-12,
+  "new_fit": 0,
+  "new_evaluation_experiment": false,
+  "raw_encoder_replay": false
+}
